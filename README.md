@@ -77,7 +77,7 @@ The dashboard answers key questions such as:
 
 
 ### 🔹 Dribble Analysis
-![Dribble Analysis](premier-league-dashboard/images/drslt.png)
+![Dribble Analysis](premier-league-dashboard/images/drlst.png)
 
 
 
