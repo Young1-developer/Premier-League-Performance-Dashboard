@@ -47,13 +47,47 @@ The dashboard answers key questions such as:
 ## 🖼 Dashboard Preview
 
 ### 🔹 Overview
-![Overview](images/)
-
-### 🔹 Team Performance
-![Team Performance](images/team_performance.png)
+![Overview](premier-league-dashboard/images/first.png)
 
 ### 🔹 Goals Analysis
-![Goals Analysis](images/goals_analysis.png)
+![Goals Analysis](premier-league-dashboard/images/sec.png)
+
+### 🔹 Goals Analysis
+![Goals Analysis](premier-league-dashboard/images/ftpic.png)
+
+
+### 🔹 Goals Analysis
+![Goals Analysis](premier-league-dashboard/images/third.png)
+
+
+### 🔹 Dribble Analysis
+![Dribble Analysis](premier-league-dashboard/images/dri1.png)
+
+
+### 🔹 Dribble Analysis
+![Dribble Analysis](premier-league-dashboard/images/dri2.png)
+
+
+### 🔹 Dribble Analysis
+![Dribble Analysis](premier-league-dashboard/images/dri3.png)
+
+
+### 🔹 Dribble Analysis
+![Dribble Analysis](premier-league-dashboard/images/drslt.png)
+
+
+### 🔹 Dribble Analysis
+![Dribble Analysis](premier-league-dashboard/images/drslt.png)
+
+
+
+
+
+
+
+
+
+
 
 ---
 
