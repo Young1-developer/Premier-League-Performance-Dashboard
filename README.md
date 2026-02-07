@@ -61,15 +61,15 @@ The dashboard answers key questions such as:
 
 
 ### 🔹 Dribble Analysis
-![Dribble Analysis](premier-league-dashboard/images/dri1.png)
+![Dribble Analysis](premier-league-dashboard/images/dr1.png)
 
 
 ### 🔹 Dribble Analysis
-![Dribble Analysis](premier-league-dashboard/images/dri2.png)
+![Dribble Analysis](premier-league-dashboard/images/dr2.png)
 
 
 ### 🔹 Dribble Analysis
-![Dribble Analysis](premier-league-dashboard/images/dri3.png)
+![Dribble Analysis](premier-league-dashboard/images/dr3.png)
 
 
 ### 🔹 Dribble Analysis
